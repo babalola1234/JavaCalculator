@@ -1,4 +1,4 @@
-# JavaCalculator
+# JavaCalculator Project
 
 ### Installing java and maven for java projects 
 - sudo yum install java-1.8*
@@ -15,4 +15,4 @@
 
 
 ### Java commands 
-java -jar target/Ravi
+- java -jar target/Ravi  <<<< name of the file containing the codes
